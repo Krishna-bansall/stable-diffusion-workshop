@@ -1,0 +1,77 @@
+
+{ 
+  "content": [
+    {
+      "spidey": "wow it was difficult day today",
+      "prompt": "a close up of a comic book cover, comic book panel, spiderman in red relaxing reading a book, sitting on terrace, day, sleeping, wide, center marvel : 6 | ugly, disfigured hand : -2"
+    },
+    {
+      "narrator": "loud noises",
+      "prompt": "a close up of a comic book cover, comic book panel, full blue building, comic blast, debris, smoke, shattered glass, wide, center marvel : 6 | ugly, disfigured hand : -2"
+    },
+    {
+      "spidey": "what was that?",
+      "prompt": "a close up of  a comic book cover, comic book panel, spiderman alerted, close up face, spide sense, day, wide, center marvel : 6 | ugly, disfigured hand : -2"
+    },
+    {  
+ "narrator": "a car crash",
+     "prompt": "a close up of a comic book cover, comic book panel, car crash, spiderman in red running towards the car, day, wide, center marvel : 6 | ugly, disfigured hand : -2"
+    },
+    {
+      "spidey": "oh no! I have to help",
+      "prompt": "a close up of a comic book cover, comic book panel, spiderman in red running towards the car, day, wide, center marvel : 6 | ugly, disfigured hand : -2"
+    },
+    {
+      "narrator": "spiderman saves the old woman from the car wreck",
+      "prompt": "a close up of a comic book cover, comic book panel, spiderman in red carrying the old woman, day, wide, center marvel : 6 | ugly, disfigured hand : -2"
+    },
+    {
+      "old woman": "thank you spiderman!",
+      "prompt": "a close up of a comic book cover, comic book panel, spiderman in red carrying the old woman, day, wide, center marvel : 6 | ugly, disfigured hand : -2"
+    },
+    {
+      "spidey": "you're welcome ma'am, I'm just doing my job",
+      "prompt": "a close up of a comic book cover, comic book panel, spiderman in red carrying the old woman, day, wide, center marvel : 6 | ugly, disfigured hand : -2"
+    },
+    {
+      "narrator": "spiderman saves the day once again",
+      "prompt": "a close up of a comic book cover, comic book panel, spiderman in red carrying the old woman, day, wide, center marvel : 6 | ugly, disfigured hand : -2"
+    },
+    {
+      "spidey": "time to go home and rest",
+      "prompt": "a close up of a comic book cover, comic book panel, spiderman in red flying away, day, wide, center marvel : 6 | ugly, disfigured hand : -2"
+    },
+    {
+      "narrator": "the sun sets on another day of heroics",
+      "prompt": "a close up of a comic book cover, comic book panel, spiderman in red flying away, day, wide, center marvel : 6 | ugly, disfigured hand : -2"
+    },
+    {
+      "spidey": "till next time",
+      "prompt": "a close up of a comic book cover, comic book panel, spiderman in red flying away, day, wide, center marvel : 6 | ugly, disfigured hand : -2"
+    }
+  ],
+  "keywords": [
+    "spiderman",
+    "old woman",
+    "car wreck",
+    "saving",
+    "heroics",
+    "loud noises",
+    "comic book cover",
+    "comic book panel",
+    "red",
+    "reading",
+    "terrace",
+    "day",
+    "sleeping",
+    "wide",
+    "center",
+    "marvel",
+    "ugly",
+    "disfigured hand",
+    "comic blast",
+    "debris",
+    "smoke",
+    "shattered glass"
+  ]
+}
