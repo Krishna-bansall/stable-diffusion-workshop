@@ -56,5 +56,6 @@ main_output = """
     },
     {  
 """ + output.choices[0].text
+
 json_file.write((main_output))
-print(json.load(main_output))
+print(json.loads(main_output))
